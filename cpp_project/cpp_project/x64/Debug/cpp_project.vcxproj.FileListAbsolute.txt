@@ -1,0 +1,15 @@
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cpp_project.vcxproj.AssemblyReference.cache
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cpp_project.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cppproject.MainForm.resources
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cpp_project.vcxproj.GenerateResource.cache
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cppproject.MyForm2.resources
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cppproject.MyForm3.resources
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cppproject.MyForm4.resources
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cppproject.MyForm5.resources
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cppproject.MyForm6.resources
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cppproject.MyForm7.resources
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cppproject.MyForm8.resources
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cppproject.MyForm11.resources
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cppproject.MyForm12.resources
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cppproject.MyForm10.resources
+C:\Users\FAIZAN RAZA\Desktop\cpp_project\cpp_project\x64\Debug\cppproject.MyForm9.resources
